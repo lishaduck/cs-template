@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = "CSP"
-copyright = "2022, lishaduck"
-author = "lishaduck"
+copyright = "2022, Elisha Dukes"
+author = "Elisha Dukes"
 release = "0.0.0"
 
 # -- General configuration ---------------------------------------------------
