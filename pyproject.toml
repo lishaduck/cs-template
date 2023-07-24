@@ -10,7 +10,7 @@ readme = "README.md"
 python = "^3.10"
 art = "^5.7"
 httplib2 = "^0.21.0"
-cirq = "^1.0.0"
+cirq = "^1.2.0"
 
 # chardet = "5.0.0"
 # lxml = "^4.9"
